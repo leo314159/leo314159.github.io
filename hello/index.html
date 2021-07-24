@@ -1,5 +1,23 @@
+
+    <style type="text/css">
+        .fireworks {
+           position: fixed;
+          top: 0;
+          left: 0;
+          widows: 100%;
+          height: 100%;
+        }
+    </style>
+    <canvas class="fireworks"></canvas>
+    <script src="./anime.min.js"></script>
+    <script src="./fireworks.js"></script>
+    <script type="text/javascript">
+        fireworks.setCanvasSize();
+    </script>
+
+
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="en" dir=" auto">
 
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -81,7 +99,7 @@
 </script>
 </head>
 
-<body class="" id="top">
+<body class="" id=" top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
