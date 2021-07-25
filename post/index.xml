@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Home</title>
+    <title>Posts on HOME</title>
     <link>https://leo314159.github.io/post/</link>
-    <description>Recent content in Posts on Home</description>
+    <description>Recent content in Posts on HOME</description>
     <image>
       <url>https://pic.onlinewebfonts.com/svg/img_376334.png</url>
       <link>https://pic.onlinewebfonts.com/svg/img_376334.png</link>
@@ -27,8 +27,7 @@
       
       <guid>https://leo314159.github.io/post/plan/</guid>
       <description>Sketch 
-1.数学  抽象代数、拓扑学 数分  $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-2.编程  java、python csapp、计算机网络  The Zen of Python-- by Tim PetersBeautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren&#39;t special enough to break the rules.</description>
+1.数学  抽象代数、拓扑学 数分  $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$2.编程  java、python csapp、计算机网络  The Zen of Python-- by Tim PetersBeautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren&#39;t special enough to break the rules.</description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@
       <pubDate>Wed, 21 Jul 2021 04:24:58 +0800</pubDate>
       
       <guid>https://leo314159.github.io/post/denebola/</guid>
-      <description>spf13-vim</description>
+      <description>mode</description>
     </item>
     
   </channel>
