@@ -2,20 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leo314159.github.io/post/denebola/</loc>
-    <lastmod>2021-07-25T04:24:58+08:00</lastmod>
-  </url><url>
-    <loc>https://leo314159.github.io/</loc>
-    <lastmod>2021-07-25T04:24:58+08:00</lastmod>
-  </url><url>
-    <loc>https://leo314159.github.io/post/</loc>
-    <lastmod>2021-07-25T04:24:58+08:00</lastmod>
-  </url><url>
-    <loc>https://leo314159.github.io/hello/</loc>
+    <loc>https://leo314159.github.io/post/hello/</loc>
     <lastmod>2021-07-25T04:14:52+08:00</lastmod>
   </url><url>
-    <loc>https://leo314159.github.io/categories/</loc>
+    <loc>https://leo314159.github.io/</loc>
+    <lastmod>2021-07-25T04:14:52+08:00</lastmod>
   </url><url>
-    <loc>https://leo314159.github.io/tags/</loc>
+    <loc>https://leo314159.github.io/post/</loc>
+    <lastmod>2021-07-25T04:14:52+08:00</lastmod>
+  </url><url>
+    <loc>https://leo314159.github.io/post/denebola/</loc>
+    <lastmod>2021-07-21T04:24:58+08:00</lastmod>
+  </url><url>
+    <loc>https://leo314159.github.io/tech/</loc>
   </url>
 </urlset>

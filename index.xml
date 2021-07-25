@@ -4,26 +4,32 @@
     <title>My Home Page</title>
     <link>https://leo314159.github.io/</link>
     <description>Recent content on My Home Page</description>
+    <image>
+      <url>https://pic.onlinewebfonts.com/svg/img_376334.png</url>
+      <link>https://pic.onlinewebfonts.com/svg/img_376334.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 04:24:58 +0800</lastBuildDate><atom:link href="https://leo314159.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2021 04:14:52 +0800</lastBuildDate><atom:link href="https://leo314159.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Denebola</title>
-      <link>https://leo314159.github.io/post/denebola/</link>
-      <pubDate>Sun, 25 Jul 2021 04:24:58 +0800</pubDate>
+      <title>Hello</title>
+      <link>https://leo314159.github.io/post/hello/</link>
+      <pubDate>Sun, 25 Jul 2021 04:14:52 +0800</pubDate>
       
-      <guid>https://leo314159.github.io/post/denebola/</guid>
-      <description>What is Denebola? Fun with Denebola.</description>
+      <guid>https://leo314159.github.io/post/hello/</guid>
+      <description>Welcome to Denebola! This is a homapage.</description>
     </item>
     
     <item>
-      <title>Hello</title>
-      <link>https://leo314159.github.io/hello/</link>
-      <pubDate>Sun, 25 Jul 2021 04:14:52 +0800</pubDate>
+      <title>Denebola</title>
+      <link>https://leo314159.github.io/post/denebola/</link>
+      <pubDate>Wed, 21 Jul 2021 04:24:58 +0800</pubDate>
       
-      <guid>https://leo314159.github.io/hello/</guid>
-      <description>Welcome to Denebola!
- This is a homapage.</description>
+      <guid>https://leo314159.github.io/post/denebola/</guid>
+      <description>What is Denebola? Fun with Denebola.
+这是一个链接 菜鸟教程
+This is Denebola
+https://leo314159.github.io/</description>
     </item>
     
   </channel>
