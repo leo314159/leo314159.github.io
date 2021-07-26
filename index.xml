@@ -10,32 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>[Denebola](https://leo314159.github.io/)</copyright>
     <lastBuildDate>Sun, 25 Jul 2021 04:14:52 +0800</lastBuildDate><atom:link href="https://leo314159.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://leo314159.github.io/post/hello/</link>
+      <link>https://leo314159.github.io/post/2021-07/hello/</link>
       <pubDate>Sun, 25 Jul 2021 04:14:52 +0800</pubDate>
       
-      <guid>https://leo314159.github.io/post/hello/</guid>
+      <guid>https://leo314159.github.io/post/2021-07/hello/</guid>
       <description>Welcome to Denebola! This is a homapage.</description>
     </item>
     
     <item>
       <title>Summer Plan</title>
-      <link>https://leo314159.github.io/post/plan/</link>
+      <link>https://leo314159.github.io/post/2021-07/plan/</link>
       <pubDate>Sat, 24 Jul 2021 20:42:12 +0800</pubDate>
       
-      <guid>https://leo314159.github.io/post/plan/</guid>
+      <guid>https://leo314159.github.io/post/2021-07/plan/</guid>
       <description>Sketch 
-1.数学  抽象代数、拓扑学 数分  $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$2.编程  java、python csapp、计算机网络  The Zen of Python-- by Tim PetersBeautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren&#39;t special enough to break the rules.</description>
+1.数学  抽象代数、拓扑学 数分  $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+2.编程  java、python csapp、计算机网络  The Zen of Python-- by Tim PetersBeautiful is better than ugly.Explicit is better than implicit.Simple is better than complex.Complex is better than complicated.Flat is better than nested.Sparse is better than dense.Readability counts.Special cases aren&#39;t special enough to break the rules.</description>
     </item>
     
     <item>
       <title>Denebola</title>
-      <link>https://leo314159.github.io/post/denebola/</link>
+      <link>https://leo314159.github.io/post/2021-07/denebola/</link>
       <pubDate>Wed, 21 Jul 2021 04:24:58 +0800</pubDate>
       
-      <guid>https://leo314159.github.io/post/denebola/</guid>
+      <guid>https://leo314159.github.io/post/2021-07/denebola/</guid>
       <description>mode</description>
     </item>
     
